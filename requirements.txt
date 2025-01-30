@@ -1,4 +1,5 @@
 matplotlib
 networkx
 numpy
-d3py
+plotly  # if you replace d3py with plotly
+# d3py
