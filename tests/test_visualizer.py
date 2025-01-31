@@ -1,5 +1,5 @@
 import unittest
-from ann_visualizer.visualizer import Visualizer
+from ann_plotter.visualizer import Visualizer
 
 class TestVisualizer(unittest.TestCase):
     def test_layer_count(self):

@@ -3,4 +3,4 @@ A simple Python package to visualize Artificial Neural Networks.
 
 ## Installation
 ```sh
-pip install ann-visualizer
+pip install ann-plotter
